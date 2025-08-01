@@ -1,0 +1,5 @@
+my name is segni abera.
+i am a computer sciinece student.
+i live in addis ababa.
+also i am a full stack Next.js developer.
+am learing python.  
