@@ -15,4 +15,7 @@ try:
 
 except FileNotFoundError:
     print("file not found ")
+
+finally:
+    file.close()    
        
